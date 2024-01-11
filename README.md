@@ -5,6 +5,6 @@ This is a sample code for implementing Vision Transformer [paper] https://arxiv.
 Run main.py
 
 
-The code use mnist dataset for training and test.
+The code uses mnist dataset for training and testing.
 
 
